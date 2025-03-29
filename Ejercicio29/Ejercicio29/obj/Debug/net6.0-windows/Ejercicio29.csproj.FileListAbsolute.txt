@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\bin\Debug\net6.0-windows\Ejercicio29.exe
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\bin\Debug\net6.0-windows\Ejercicio29.deps.json
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\bin\Debug\net6.0-windows\Ejercicio29.runtimeconfig.json
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\bin\Debug\net6.0-windows\Ejercicio29.dll
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\bin\Debug\net6.0-windows\Ejercicio29.pdb
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.Form1.resources
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.AssemblyInfo.cs
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.dll
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\refint\Ejercicio29.dll
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.pdb
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\Ejercicio29.genruntimeconfig.cache
+C:\Users\David\Desktop\Curso 2023-2024\Programacion\Ejercicios\Hechos\Tema3\Ejercicio29\Ejercicio29\obj\Debug\net6.0-windows\ref\Ejercicio29.dll

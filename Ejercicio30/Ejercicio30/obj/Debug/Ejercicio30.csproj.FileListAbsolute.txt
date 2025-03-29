@@ -1,0 +1,20 @@
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csprojResolveAssemblyReference.cache
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.Form1.resources
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.Properties.Resources.resources
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.GenerateResource.Cache
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.CoreCompileInputs.cache
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.exe
+D:\Curso 2018-2019\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.Form1.resources
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.Properties.Resources.resources
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.exe
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb

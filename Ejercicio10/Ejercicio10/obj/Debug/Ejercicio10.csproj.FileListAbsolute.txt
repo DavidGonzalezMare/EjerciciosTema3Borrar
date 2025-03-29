@@ -1,0 +1,9 @@
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.Cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Form1.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojResolveAssemblyReference.cache

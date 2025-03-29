@@ -1,0 +1,9 @@
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe.config
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.pdb
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csprojResolveAssemblyReference.cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.Form1.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.Properties.Resources.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.GenerateResource.Cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.pdb

@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\bin\Debug\Ejercicio25.exe.config
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\bin\Debug\Ejercicio25.exe
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\bin\Debug\Ejercicio25.pdb
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.Form1.resources
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.Properties.Resources.resources
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.exe
+C:\Users\David\Desktop\Curso 2022-2023\Programacion\Ejercicios\Hechos\Tema3\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.pdb

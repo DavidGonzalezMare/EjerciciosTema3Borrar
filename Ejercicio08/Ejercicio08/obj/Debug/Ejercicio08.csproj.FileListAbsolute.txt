@@ -1,0 +1,18 @@
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\bin\Debug\Ejercicio08.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\bin\Debug\Ejercicio08.pdb
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.Form1.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.Properties.Resources.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.csproj.GenerateResource.Cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.pdb
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\bin\Debug\Ejercicio08.exe
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\bin\Debug\Ejercicio08.pdb
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.Form1.resources
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.Properties.Resources.resources
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.exe
+C:\Users\David\Desktop\Curso 2020 - 2021\Programacion\Ejercicios\Hechos\Tema3\Ejercicio08\Ejercicio08\obj\Debug\Ejercicio08.pdb
