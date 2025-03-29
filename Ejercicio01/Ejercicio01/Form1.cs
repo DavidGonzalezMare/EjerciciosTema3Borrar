@@ -17,6 +17,8 @@ namespace Ejercicio01
             InitializeComponent();
         }
 
+        // Pues voy a meter un comentario para que se refleje
+        // en el repositorio
         private void button1_Click(object sender, EventArgs e)
         {
             int num;
