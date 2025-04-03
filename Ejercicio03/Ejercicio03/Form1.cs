@@ -19,13 +19,13 @@ namespace Ejercicio03
 
         private void bComparar_Click(object sender, EventArgs e)
         {
-            int n1, n2;
+            int numero1, n2;
 
-            n1 = int.Parse(tNum1.Text);
+            numero1 = int.Parse(tNum1.Text);
             n2 = int.Parse(tNum2.Text);
 
-            if (n1 > n2)
-                MessageBox.Show("El número mayor es: " + n1);
+            if (numero1 > n2)
+                MessageBox.Show("El número mayor es: " + numero1);
             else
                 MessageBox.Show("El número mayor es: " + n2);
 

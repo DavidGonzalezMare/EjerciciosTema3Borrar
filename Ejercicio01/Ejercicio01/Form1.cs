@@ -23,10 +23,12 @@ namespace Ejercicio01
         {
             int num;
 
+            // Nuevo comentario
             num = int.Parse(tNumero.Text);
 
-            if (num == 2)
-                MessageBox.Show("Es el 2.");
+
+            if (num == 10)
+                MessageBox.Show("Es el 10.");
             else
                 MessageBox.Show("NO es el 2.");
 
